@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-var logging = true
+var logging = false
 
 // log out
 func saveLog(platform string, channel string, info string) {
